@@ -1,0 +1,26 @@
+{
+  "title": "7/1~7/7",
+  "week": "2026-W27",
+  "bonus": "유일 1회당 300 / 신화 1회당 250 · 1회 추가 보상",
+  "members": [
+    {"name": "강림", "amount": 1200, "note": ""},
+    {"name": "구음", "amount": 8400, "note": "구음캐릭 수령"},
+    {"name": "레고", "amount": 1200, "note": ""},
+    {"name": "레피", "amount": 1200, "note": ""},
+    {"name": "신커", "amount": 1800, "note": ""},
+    {"name": "빠각", "amount": 1200, "note": ""},
+    {"name": "사바키", "amount": 5320, "note": ""},
+    {"name": "샤크", "amount": 1200, "note": ""},
+    {"name": "앵자", "amount": 3300, "note": ""},
+    {"name": "언데드", "amount": 1800, "note": ""},
+    {"name": "의무병", "amount": 2100, "note": ""},
+    {"name": "제로", "amount": 600, "note": ""},
+    {"name": "조커", "amount": 1200, "note": ""},
+    {"name": "초보", "amount": 1200, "note": ""},
+    {"name": "출장", "amount": 1200, "note": ""},
+    {"name": "카링", "amount": 6000, "note": ""},
+    {"name": "케이", "amount": 3000, "note": ""},
+    {"name": "코인", "amount": 5100, "note": ""},
+    {"name": "현이", "amount": 3300, "note": ""}
+  ]
+}
